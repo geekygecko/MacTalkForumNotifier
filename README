@@ -1,0 +1,5 @@
+A simple application for the Mac to notify you of the new posts that are created on the MacTalk Australia forums, http://forums.mactalk.com.au
+
+git clone git@github.com:geekygecko/MacTalkForumNotifier.git
+cd MacTalkForumNotifier
+open MacTalk.xcodeproj
